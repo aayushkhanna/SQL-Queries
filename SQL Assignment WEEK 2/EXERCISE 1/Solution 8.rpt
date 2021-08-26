@@ -1,0 +1,24 @@
+﻿SalesPersonID COMMISSION BAND
+------------- ---------------
+274           Band 0
+285           Band 0
+287           Band 0
+278           Band 1
+279           Band 1
+280           Band 1
+281           Band 1
+275           Band 2
+283           Band 2
+276           Band 2
+277           Band 2
+282           Band 2
+290           Band 3
+288           Band 3
+286           Band 3
+284           Band 3
+289           Band 3
+
+(17 rows affected)
+
+
+Completion time: 2021-07-12T23:45:30.4579203+05:30
